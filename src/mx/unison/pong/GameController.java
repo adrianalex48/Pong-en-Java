@@ -1,6 +1,6 @@
 package mx.unison.pong;
 
-import javax.swing.Timer;
+import javax.swing.*;
 
 public class GameController {
     private final GameModel model;
